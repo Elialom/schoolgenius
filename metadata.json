@@ -1,0 +1,5 @@
+{
+  "name": "SchoolGenius",
+  "description": "A robust school testing platform allowing teachers to generate grade-specific exams for Math, Science, English, etc. using AI and students to take timed tests.",
+  "requestFramePermissions": []
+}
